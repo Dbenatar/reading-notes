@@ -5,8 +5,8 @@ Growth mindset is a way of thinking of learning as something not as rigid as hav
 
 ## Things to keep telling myself
 
-- Time (to practice and learn)
-- Persistance
+- It takes time (to practice and learn)
+- Be persist
 - Embrace the challenge
 
 >“We only know a tiny proportion about the complexity of the natural world. Wherever you look, there are still things we don’t know about and don’t understand. [...] There are always new things to find out if you go looking for them.”
