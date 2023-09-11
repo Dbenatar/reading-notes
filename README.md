@@ -3,7 +3,7 @@
 ## Growth Mindset
 Growth mindset is a way of thinking of learning as something not as rigid as having initial talent or inteligence in a subject. By embracing a new way of learning and with time, dedication and an eagerness to learn I can learn something new. This constrasts a fixed mindet, which is certainly a way I have felt about learning new, challenging things in the past. The feeling of finding something hard and thinking I will never be able to learn it. 
 
-##Things to keep telling myself
+## Things to keep telling myself
 
 - Time
 - Persistance
