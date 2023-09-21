@@ -22,3 +22,13 @@ padding: 5px;
 }
 
 ## JS
+
+If you write HTML inside of Javascript an argument it should be instide of single quotes.
+
+There are number of different Javascript operators, such as Arithmetic, comparison, assignment and string operators.
+
+As a **Function** is a block of code designed to perform a particular task, it is a great for task that need to be repeated. Using funtions you can also use the same code but using different arguments to produce different results. A real life example of using a function would be if you needed to convert a unit of measeurment from metric to imperial or vice versa.
+
+An if statement checks a condition and if it evaluates to true, then the code block will execute. A way to chain extra choices or outcomes to a block of code we can use the **else if** condition. This can specify a new condition to test if the initial condition is false.
+
+Comparison operators are used along with Logical operators to test for true or false. Examples of Comparison operators are **==** = equal to, **!=** = not equal to, < = less than and > greater than. The difference between Logical operators are && = **and** while || means **or**.
