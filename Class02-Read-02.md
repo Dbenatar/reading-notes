@@ -4,11 +4,11 @@
 
 The use of semantic elements in HTML is important becuase they clearly describe the content inside of the tags. This also helps make it easier for SEO bots to parse. Semantic elements improve accessibility in a couple of ways. They firstly use less memory than non-semantic HTML so this is easier for mobile applcations. The browser also has an easier time interpreting the code. Semantic HTML is a lot more beneficial to those using screen readers. The use of semantic elements is also easier for developers to read, especially when it is a large team of developers reading the same code.
 
-Headings in HTML have 6 different levels, <h1> being the largest and reserved for the main heading of the page. It is commomn practice to only use one of these per page. Heading sizes decrease in size all the way to <h6>. Unlike the H1 tag, you can use multiple headings on a page of the other five sizes.
+Headings in HTML have 6 different levels, h1 being the largest and reserved for the main heading of the page. It is commomn practice to only use one of these per page. Heading sizes decrease in size all the way to h6. Unlike the H1 tag, you can use multiple headings on a page of the other five sizes.
 
-HTML can make use of two typographical elements called <sup> and <sub>, **superscript** and **subscript** respectively.
+HTML can make use of two typographical elements called **sup** and **sub**, **superscript** and **subscript** respectively.
 
-The abbreviation tag <abbr> must be used in conjunvction with the global <title> attribute to show the description of the abbreviation.
+The abbreviation tag **abbr** must be used in conjunvction with the global <title> attribute to show the description of the abbreviation.
 
 ## CSS
 
