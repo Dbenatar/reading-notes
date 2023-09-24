@@ -30,6 +30,6 @@ A real world example for using a conditional statement in Javascript could be to
 > const beverage = age >= 21 ? "Beer" : "Juice";
 > console.log(beverage); // "Beer"
 
-Example taken from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator).
+Example taken from [MDN](https://developer.mopwzilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator).
 
 Loops are great for running the same code repeatedly and get different values.
