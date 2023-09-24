@@ -1,10 +1,10 @@
 # HTML Media
 
-A use of the <alt> attributeis to have alternative text in case an image cannot be displayed properly on the web page because of a slow connection or if the user is using a screen reader.
+A use of the alt attributeis to have alternative text in case an image cannot be displayed properly on the web page because of a slow connection or if the user is using a screen reader.
 
 When writing HTML code try and make it as semantic as possible to provide a good way to navigate and interact with your website. A way of implementing this is using alternative text for images.
 
-The <figure> element could be used to mark up a photo in a document which is further defined by the use of a <figcaption>.
+The figure element could be used to mark up a photo in a document which is further defined by the use of a figcaption.
 
 GIFs are not really videos but more of an collection of annimated images which can appear like a very short video. A GIF file essentially holds multiple images at once and can load them sequentially, like a flipbook. An SVG image is similar but can be created and edited with any text editor. SVG images are scalable (Scalable Vector Graphics), are zoomable and can be printed at high quality resolution.
 
@@ -20,4 +20,4 @@ When choosing a font it is best to chose from a list of web safe fonts. These ar
 
 **Font-size** property sets the size of the text. This size can be absolute, set to a specified size, or set size relative to surrounding elements. **font-weight** in contrast is the property that sets how thick or thin characters of text are displayed. **Font-style** is mostly used to specify italic text.
 
-If a developer is wanting to create space around an <h1> element, either the padding or margins should be increased. Using CSS, the white space, letter spacing and word spacing can all be adjusted as well. _White space_ specifies the white space inside of an element. _Letter spacing_ specefies the space between charactes in text and _word spacing_ specefies space between words in a text element.
+If a developer is wanting to create space around an h1 element, either the padding or margins should be increased. Using CSS, the white space, letter spacing and word spacing can all be adjusted as well. _White space_ specifies the white space inside of an element. _Letter spacing_ specefies the space between charactes in text and _word spacing_ specefies space between words in a text element.
