@@ -27,10 +27,17 @@ const isSummer = fales;
 const fruits = ["apple", "banana", ...(isSummer ? ["watermelon"] : [])];
 
 5. let arr1 = [0, 1 , 2];
-const arr2 = [3, 4, 5];
+   const arr2 = [3, 4, 5];
 
 arr1 = [...arr2, ...arr1];
 console.log(arr1);
 
+## How to pass functions between components
 
+**In the video, what is the first step that the developer does to pass functions between components?** The developer creates the increment function after the state containing the people array.
 
+**In your own words, what does the increment function do?** The increment function in theis example increases the count be one increment per click of the button.
+
+**How can you pass a method from a parent component into a child component?** To pass a componenet from the parent to the child component you can use {this.name of function}.
+
+**How does the child component invoke a method that was passed to it from a parent component?** To call this method you call in the child by using this.props.nameOfFunction().
