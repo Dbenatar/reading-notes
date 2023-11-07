@@ -20,17 +20,43 @@ This is the permanent redirect code that tells the client to use another URL to 
 
 What code would you use if an update didn’t return data to a client?
 
+The 204 No content code for updates and doesnt not return data to the client.
+
 What code would you use if a resource used to exist but no longer does?
 
+Error code 410 Gone is similar to error code 404, the resource existed in the past bit it has been deleted or moved.
+
 What is the ‘Forbidden’ status code?
+
+403 Forbidden occurs when the client has authorised itself but does not have permission to access a resource.
 
 ## REST API Node.js, Express and MongoDB
 
 Why do we need to pull our MongoDB database string out of our server and put it into our .env?
+
+Because it contains sensitive information.
+
 What is middleware?
+Code that runs when the server gets a request but before it gets passed to the route.
+
 What does app.use(express.json()) do?
+This allows our server to accept JSON as a body instead of a post element.
+
 What does the /:id mean in a route?
+This is the route to a particular file path. The :id means it is a parameter.
+
 What is the difference between PUT and PATCH?
+
+The PUT method is used to update a resource or create a new resource. When PUT is sent, the entire resource is replaced with new data. The PATCH method is used to partially update a resource. When using PATCH you specidy the fields that need to be updated in the request body.
+
 How do you make a default value in a schema?
+
+In the object you are creating you have to define the different properties, for example a string or a number.
+
 What does a 500 error status code mean?
+
+A 500 error status code refers to an internal server error. This can be something such as a missing header field which was accessed without checking its existence to an unreachable third party service.
+
 What is the difference between a status 200 and a status 201?
+
+Code 200 is the basic status code to tell the client that everything went correctly. 201 code signals the backend resource creation that defines the most specidic URL for that newly created resource.
